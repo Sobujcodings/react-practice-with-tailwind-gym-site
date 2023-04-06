@@ -1,0 +1,25 @@
+[  {    
+    "id": 1,    
+    "name": "Fitness First",  
+    "features": ["Cardio equipment", "Weightlifting equipment", "Group fitness classes", "Personal training"],
+    "price": 50
+  },
+  {
+    "id": 2,
+    "name": "Gold's Gym",
+    "features": ["Cardio equipment", "Weightlifting equipment", "Group fitness classes", "Personal training"],
+    "price": 75
+  },
+  {
+    "id": 3,
+    "name": "24 Hour Fitness",
+    "features": ["Cardio equipment", "Weightlifting equipment", "Group fitness classes", "Personal training"],
+    "price": 60
+  },
+  {
+    "id": 4,
+    "name": "LA Fitness",
+    "features": ["Cardio equipment", "Weightlifting equipment", "Group fitness classes", "Personal training", "Personal training"],
+    "price": 65
+  }
+]
